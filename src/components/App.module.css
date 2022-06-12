@@ -1,0 +1,20 @@
+.wrapper{
+    padding: 0px 50px;
+}
+.header_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+}
+.main_header{
+    font-size: 55px;
+    font-family: 'Creepster', cursive;
+    text-decoration: none;
+    color: #000;
+}
+.liked_header{
+    font-size: 30px;
+    text-decoration: underline;
+    color: #000;
+}

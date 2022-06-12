@@ -1,0 +1,43 @@
+.profile_container{
+    border: 2px solid #000;
+    border-radius: 15px;
+    padding: 10px 30px;
+    width: 800px;
+}
+.header_nav{
+    display: flex;
+}
+.profile_img{
+    border-radius: 50%;
+    overflow: hidden;
+}
+.header_text_container{
+    padding-left: 70px;
+}
+.header_name{
+    font-size: 42px;
+}
+.header_status{
+    font-size: 20px;
+}
+.info_div{
+    padding: 8px 0 8px 90px;
+    font-size: 18px;
+}
+.info_section{
+    display: flex;
+}
+.info_name{
+    font-weight: 700;
+}
+.info_value{
+    padding-left: 170px;
+}
+.like_buttons{
+    width: 70px;
+    height: 30px;
+    margin-right: 20px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}

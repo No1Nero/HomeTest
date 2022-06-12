@@ -1,0 +1,12 @@
+.search_input{
+    width: 270px;
+    padding: 0 7px;
+    font-size: 22px;
+    height: 30px;
+}
+.search_button{
+    height: 34px;
+    width: 35px;
+    margin-left: 10px;
+    cursor: pointer;
+}

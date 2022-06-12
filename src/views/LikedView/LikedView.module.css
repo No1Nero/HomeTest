@@ -1,0 +1,29 @@
+.liked_header{
+    padding: 15px 0;
+    font-size: 32px;
+    font-weight: 700;
+}
+.char_element{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    font-size: 14px;
+}
+.char_img{
+    width: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.char_name{
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
+}
+.empty_message{
+    font-size: 32px;
+    padding-top: 40px;
+    opacity: 0.4;
+}

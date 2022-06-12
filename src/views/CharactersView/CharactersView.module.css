@@ -1,0 +1,28 @@
+.char_element{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    font-size: 14px;
+}
+.char_img{
+    width: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.char_name{
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    text-decoration: none;
+}
+.button_container{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 150px 10px 150px;
+}
+.list_button{
+    font-size: 25px;
+    cursor: pointer;
+}
